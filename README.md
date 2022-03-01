@@ -1,3 +1,3 @@
 # ERC20_auditShibaContract
-# Contract address 0x2979954452C4161a62719F8469Aa07d42F140997
-# https://rinkeby.etherscan.io/tx/0xd42a294186d466dd78f02725d55e0a02061a7a405064052768360e28e65239fd
+ Contract deploy address https://ropsten.etherscan.io/tx/0xc0e8122f306de0c2bcdd36222202bb3cfd60b90dd4d7d678e2e7d9f7cbad9ffc
+ Contract address https://ropsten.etherscan.io/address/0x51acbc82a07ef343ecdacfa3f6e84ca690c9cfd2
